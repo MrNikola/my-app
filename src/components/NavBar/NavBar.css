@@ -1,0 +1,33 @@
+.covid:hover {
+    color: red;
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+
+  }
+  
+  .about:hover {
+    color: red;
+    cursor: pointer;
+    transition: 0.1s;
+    transform: scale(1.1);
+  }
+  .country:hover {
+      color: red;
+      cursor: pointer;
+      transition: 0.1s;
+      transform: scale(1.1);
+
+    }
+  
+  .countryStats:hover {
+      color: red;
+      cursor: pointer;
+      transition: 0.1s;
+  
+  }
+  .covid,
+  .about,
+  .country {
+    text-shadow: 0.5px 0.5px 0.5px #000000;
+  }
